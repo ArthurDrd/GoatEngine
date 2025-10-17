@@ -34,8 +34,18 @@
 *.out
 *.app
 
-*.log
+build
+logs
+*.sln
 *.vcxproj*
 *.vscode
 *.code-workspace
-*.x64
+*.data
+*.ipynb*
+*.pyc
+*.log
+*cmake_install.cmake
+*CMakeFiles
+*CMakeCache.txt
+*.ini
+*.DS_Store
