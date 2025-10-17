@@ -33,3 +33,9 @@
 *.exe
 *.out
 *.app
+
+*.log
+*.vcxproj*
+*.vscode
+*.code-workspace
+*.x64
