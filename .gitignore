@@ -36,6 +36,7 @@
 
 build
 logs
+x64
 *.sln
 *.vcxproj*
 *.vscode
