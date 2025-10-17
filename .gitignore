@@ -1,3 +1,6 @@
+# Visual Studio user specific files
+.vs/
+
 # Prerequisites
 *.d
 
@@ -30,6 +33,3 @@
 *.exe
 *.out
 *.app
-
-# Visual Studio user specific files
-.vs/
